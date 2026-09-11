@@ -22,6 +22,5 @@
 ## What does git merge do?
     git merge helps to merge the branch and main
 
-## Explain this workflow:
-Branch → Make changes → Add → Commit → Merge → Push
+## Explain this workflow: Branch → Make changes → Add → Commit → Merge → Push
     will create the branch and will do some changes or data, will stage the changes using add and save the changes and merge it with the main and push to Git Hub
