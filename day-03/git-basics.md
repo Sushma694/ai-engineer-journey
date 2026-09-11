@@ -21,5 +21,3 @@ GitHub stores Git repositories online.
 Staging selects changes for the next commit.
 
 Commit saves a snapshot of the staged changes.
-
-## Git helps me track my AI Engineer journey.
